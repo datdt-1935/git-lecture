@@ -1,3 +1,3 @@
 # git-lecture
 
-## Phạm Quang Hoà
+##  NTN
