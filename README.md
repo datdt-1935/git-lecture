@@ -1,3 +1,3 @@
 # git-lecture
 
-## Đặng Thành Đạt Hoang
+## Bui Phuong Thao 
