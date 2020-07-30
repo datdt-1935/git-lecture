@@ -1,3 +1,3 @@
 # git-lecture
 
-## Đặng Thành Đạt
+## Đặng Thành Đạt, Phạm Việt Hưng 
