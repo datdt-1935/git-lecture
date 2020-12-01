@@ -1,3 +1,1 @@
-# git-lecture
-
-## Bui Phuong Thao 
+Nguyễn Thành
