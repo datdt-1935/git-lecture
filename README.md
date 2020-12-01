@@ -1,3 +1,3 @@
 # git-lecture
 
-## Bui Phuong Thao 
+## Khang
