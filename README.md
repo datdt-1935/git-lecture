@@ -1,3 +1,1 @@
-# git-lecture
-
-## Khang
+Nguyễn Thành
